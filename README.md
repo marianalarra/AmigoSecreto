@@ -18,7 +18,7 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 - 🎲**Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
 
-   ![Resultado sorteo](./assets/sorteaamigos.png)
+   ![Resultado sorteo](./assets/sortea_amigo.png)
 
 ## Comenzando 🚀
 
